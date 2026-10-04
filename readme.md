@@ -47,7 +47,6 @@ Philosophical essays: [Heterodox Skepticism](https://felipec.substack.com/).
 
 ## Stats
 
-<a href="https://github.com/felipec">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=felipec&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipec&layout=compact&hide_border=true&theme=transparent" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&langs_count=6&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&langs_count=6&disable_animations=true&theme=transparent)
