@@ -12,6 +12,10 @@ I write mainly about programming, logic, politics and philosophy, but lots of ot
 [![Reddit](https://img.shields.io/badge/Reddit-u%2Ffelipec-ff4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/felipec)
 [![Observable](https://img.shields.io/badge/Observable-@felipec-ef4d97?logo=observable&logoColor=white)](https://observablehq.com/@felipec)
 [![Open Hub](https://img.shields.io/badge/Open%20Hub-felipec-3b7cb3)](https://openhub.net/accounts/felipec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipec-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipec/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-felipe.cg-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/felipe.cg)
+
+nostr epub: `npub1th06knpccvy0nuspfegtrtpm48a7hyr7m3rdwaed6dqnzu3va9es8la4l8`.
 
 ## Main projects
 
