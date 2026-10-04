@@ -58,4 +58,4 @@ You can vote on what I shall do next (by subscribing), or open a new ticket in [
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&langs_count=6&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&langs_count=6&disable_animations=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&layout=compact&langs_count=6&hide=llvm&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=felipec&hide_title=true&layout=compact&langs_count=6&hide=llvm&disable_animations=true&theme=transparent)
