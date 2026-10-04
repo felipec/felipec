@@ -45,6 +45,15 @@ Latest articles: [felipec.wordpress.com](https://felipec.wordpress.com/).
 
 Philosophical essays: [Heterodox Skepticism](https://felipec.substack.com/).
 
+## Stuff I'm working on:
+
+ * [Article: linked lists and Rust / C++](https://github.com/felipec/felipec/issues/6)
+ * [Video: twin paradox](https://github.com/felipec/felipec/issues/3)
+ * [Article: git workflows](https://github.com/felipec/felipec/issues/1)
+ * [Software: make another release of vim-felipec](https://github.com/felipec/felipec/issues/4)
+
+You can vote on what I shall do next (by subscribing), or open a new ticket in [issues](https://github.com/felipec/felipec/issues). I'm all about giving users what they want, so I'll consider it.
+
 ## Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=felipec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
